@@ -1,0 +1,2 @@
+# LombokNoArgsConstructorTest
+LombokNoArgsConstructorTest
