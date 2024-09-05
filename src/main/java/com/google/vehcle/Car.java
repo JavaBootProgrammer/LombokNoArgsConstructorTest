@@ -1,10 +1,7 @@
 package com.google.vehcle;
 
-import lombok.*;
+import lombok.NoArgsConstructor;
 
-@Getter
-@Setter
-@ToString
 @NoArgsConstructor
 public class Car {
     private String id;
