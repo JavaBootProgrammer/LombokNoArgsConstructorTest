@@ -10,9 +10,8 @@ public class LombokNoArgsConstructorTest {
     public static void main(String[] args) {
         SpringApplication.run(LombokNoArgsConstructorTest.class, args);
 
-        Car car = new Car();
-        System.out.println(car);
+
+
 
     }
-
 }
